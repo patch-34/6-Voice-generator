@@ -6,6 +6,7 @@ Author: 34birds
 
 ## Overview
 34birds 6-Voice Generator is a lightweight multi-oscillator sound generator built as a JSFX plugin for REAPER.
+Built as a pure JSFX (EEL2) plugin for REAPER
 
 It is designed for:
 - procedural sound design
